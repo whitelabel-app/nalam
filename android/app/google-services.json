@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "1043588898129",
+        "firebase_url": "https://nalamapp-cff82.firebaseio.com",
+        "project_id": "nalamapp-cff82",
+        "storage_bucket": "nalamapp-cff82.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1043588898129:android:1a3f840c9b92bbffc08770",
+                "android_client_info": {
+                    "package_name": "com.nexxtway.nalam"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1043588898129-5fifocpm2l4moq4eu05n5slvm3vj3bjh.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCKHUxZBRWazRj5uH2mfnEOK9wC-9zS-BI"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1043588898129-5fifocpm2l4moq4eu05n5slvm3vj3bjh.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "1043588898129-t8mfapb94gmgff7v7699nao4agtel2g2.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.nexxtway.nalam"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
